@@ -7,9 +7,12 @@ Machine failure impacts production work significantly. Machine failures can lead
 ## Objective
 - To identify the major causes of machine failures and prevent unplanned downtime, productivity losses, increased repair costs, impact on production and delivery of services, health and safety implications and company reputation.
 
-- Develop a model that can predict machine failure to enable preventive and predictive maintenance.
+- Develop a model to predict machine failure to support preventive and predictive maintenance.
 
 - Preserve the equipment's service life and value during the equipment's design life.
 
 - Provide insights to the company's maintenance department on the timely applications of maintenance measures to prevent downtimes, productivity losses, increased repair costs, and any adverse impact on production.
+  
+- Compare two models - decision tree and LSTM neural network to predict machine failure.
+  
 - Here's  the link to the dataset - https://archive.ics.uci.edu/dataset/601/ai4i+2020+predictive+maintenance+dataset
